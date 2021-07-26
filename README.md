@@ -13,4 +13,4 @@ The separator used is the following elements
 Please parse the diataö element using the language you use to display the text so that it has readmore
 
 ## Attribution
-Widget icon by Aldo Expert.
+Widget icon by Aldo Expert
